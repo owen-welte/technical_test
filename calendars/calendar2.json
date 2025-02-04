@@ -1,0 +1,188 @@
+{
+    "schedule": [
+        {
+            "date": "03/02/2025",
+            "day": "Lundi",
+            "courses": [
+                {
+                    "name": "Anglais",
+                    "start_time": "08:15",
+                    "end_time": "10:00",
+                    "color": "#2ECC71",
+                    "rendu": false
+                },
+                {
+                    "name": "Histoire",
+                    "start_time": "11:45",
+                    "end_time": "12:30",
+                    "color": "#F1C40F",
+                    "rendu": false
+                },
+                {
+                    "name": "Histoire",
+                    "start_time": "13:00",
+                    "end_time": "14:00",
+                    "color": "#F1C40F",
+                    "rendu": false
+                },
+                {
+                    "name": "Sport",
+                    "start_time": "15:30",
+                    "end_time": "16:00",
+                    "color": "#E74C3C",
+                    "rendu": false
+                },
+                {
+                    "name": "Philosophie",
+                    "start_time": "17:15",
+                    "end_time": "19:00",
+                    "color": "#D35400",
+                    "rendu": false
+                }
+            ]
+        },
+        {
+            "date": "04/02/2025",
+            "day": "Mardi",
+            "courses": [
+                {
+                    "name": "Physique",
+                    "start_time": "08:30",
+                    "end_time": "09:00",
+                    "color": "#3498DB",
+                    "rendu": true
+                },
+                {
+                    "name": "Chimie",
+                    "start_time": "10:30",
+                    "end_time": "11:30",
+                    "color": "#1ABC9C",
+                    "rendu": true
+                },
+                {
+                    "name": "Sport",
+                    "start_time": "12:15",
+                    "end_time": "13:30",
+                    "color": "#E74C3C",
+                    "rendu": false
+                },
+                {
+                    "name": "Anglais",
+                    "start_time": "14:30",
+                    "end_time": "16:00",
+                    "color": "#2ECC71",
+                    "rendu": true
+                }
+            ]
+        },
+        {
+            "date": "05/02/2025",
+            "day": "Mercredi",
+            "courses": [
+                {
+                    "name": "Sport",
+                    "start_time": "08:45",
+                    "end_time": "09:30",
+                    "color": "#E74C3C",
+                    "rendu": false
+                },
+                {
+                    "name": "Chimie",
+                    "start_time": "10:30",
+                    "end_time": "12:00",
+                    "color": "#1ABC9C",
+                    "rendu": true
+                },
+                {
+                    "name": "Maths",
+                    "start_time": "13:00",
+                    "end_time": "14:00",
+                    "color": "#FF5733",
+                    "rendu": true
+                },
+                {
+                    "name": "Sport",
+                    "start_time": "15:45",
+                    "end_time": "16:30",
+                    "color": "#E74C3C",
+                    "rendu": true
+                }
+            ]
+        },
+        {
+            "date": "06/02/2025",
+            "day": "Jeudi",
+            "courses": [
+                {
+                    "name": "Chimie",
+                    "start_time": "08:30",
+                    "end_time": "09:00",
+                    "color": "#1ABC9C",
+                    "rendu": true
+                },
+                {
+                    "name": "Informatique",
+                    "start_time": "10:00",
+                    "end_time": "11:30",
+                    "color": "#9B59B6",
+                    "rendu": false
+                },
+                {
+                    "name": "Sport",
+                    "start_time": "12:45",
+                    "end_time": "13:00",
+                    "color": "#E74C3C",
+                    "rendu": true
+                },
+                {
+                    "name": "Philosophie",
+                    "start_time": "14:00",
+                    "end_time": "16:00",
+                    "color": "#D35400",
+                    "rendu": false
+                }
+            ]
+        },
+        {
+            "date": "07/02/2025",
+            "day": "Vendredi",
+            "courses": [
+                {
+                    "name": "Sport",
+                    "start_time": "08:45",
+                    "end_time": "09:30",
+                    "color": "#E74C3C",
+                    "rendu": true
+                },
+                {
+                    "name": "Chimie",
+                    "start_time": "10:15",
+                    "end_time": "12:00",
+                    "color": "#1ABC9C",
+                    "rendu": true
+                },
+                {
+                    "name": "Sport",
+                    "start_time": "13:45",
+                    "end_time": "14:30",
+                    "color": "#E74C3C",
+                    "rendu": true
+                },
+                {
+                    "name": "Histoire",
+                    "start_time": "15:30",
+                    "end_time": "17:00",
+                    "color": "#F1C40F",
+                    "rendu": false
+                },
+                {
+                    "name": "Physique",
+                    "start_time": "18:00",
+                    "end_time": "19:00",
+                    "color": "#3498DB",
+                    "rendu": false
+                }
+            ]
+        }
+    ]
+}
